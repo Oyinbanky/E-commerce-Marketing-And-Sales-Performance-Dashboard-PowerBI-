@@ -1,0 +1,2 @@
+# E-commerce-Marketing-And-Sales-Performance-Dashboard-PowerBI-
+This Power BI dashboard provides an in depth analysis of marketing campaigns, customer demographics, purchasing behavior, and also channel performance for an e-commerce marketing dataset. The goal is to help stakeholders understand which marketing strategies work, who their customers are, and how purchases vary across different channels.
