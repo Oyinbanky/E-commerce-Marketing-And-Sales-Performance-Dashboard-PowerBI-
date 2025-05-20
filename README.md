@@ -36,5 +36,8 @@ This project explores the **Marketing Campaign Dataset** of 2,240 customers from
 
   ---
   ### Dashboard
-  
+  ![Dashboard Preview](Marketing-Dashboard1.png)
+
+  ![Dashboard Preview](Marketing-Dashboard2.png)
+
       
