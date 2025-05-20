@@ -1,5 +1,5 @@
 ### Table of Contents
-[E-commerce-Marketing-And-Sales-Performance-Dashboard-(PowerBI)-](# e-commerce-marketing-and-sales-performance-dashboard-(powerbi)-)
+[E-commerce-Marketing-And-Sales-Performance-Dashboard-(PowerBI)-](#e-commerce-marketing-and-sales-performance-dashboard-(powerbi)-)
 
 [Project Overview](#project-overview)
 
